@@ -1,6 +1,7 @@
-Playground-1: Load configuration from json file.
-=========
+###Playground-1: Load configuration from json file.
 
-sample usage:
+Sample usage:
+
 ```go build```
+
 ```./config -env=production```
