@@ -1,0 +1,17 @@
+{
+  "development":
+  {
+    "port": "3000",
+    "database": "db_development"
+  },
+  "staging":
+  {
+    "port": "8080",
+    "database": "db_staging"
+  },
+  "production":
+  {
+    "port": "80",
+    "database": "db_production"
+  }
+}
