@@ -6,6 +6,10 @@
 
 Sample usage:
 
-```go build```
+```
+go build
+```
 
-```./restful_routes```
+```
+./restful_routes
+```
